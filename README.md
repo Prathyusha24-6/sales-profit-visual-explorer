@@ -27,22 +27,22 @@ python gradio_app.py
 ## Application Screenshots
 
 ### Line Plot
-![Line plot](line_plot.png)
+![Line plot](Line_plot.png)
 
 ### Stacked Bar Chart
-![Stacked Bar Chart](bar_chart.png)
+![Stacked Bar Chart](Stacked_Bar_chart.png)
 
 ### Pie Chart
-![Pie chart](pie_chart.png)
+![Pie chart](Pie-chart.png)
 
 ### Scatter Plot
-![Scatter plot](scatter_plot.png)
+![Scatter plot](Scatter_plot.png)
 
 ### Histogram
-![Histogram](histogram.png)
+![Histogram](Histogram.png)
 
 ### Box Plot
-![Box plot](box_plot.png)
+![Box plot](Box_plot.png)
 
 ## Project File
 - gradio_app.py → Main application file
