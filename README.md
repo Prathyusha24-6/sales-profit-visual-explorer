@@ -30,10 +30,10 @@ python gradio_app.py
 ![Line plot](Line_plot.png)
 
 ### Stacked Bar Chart
-![Stacked Bar Chart](Stacked_Bar_chart.png)
+![Stacked Bar Chart](Stacked_Bar_Chart.png)
 
 ### Pie Chart
-![Pie chart](Pie-chart.png)
+![Pie chart](Pie_chart.png)
 
 ### Scatter Plot
 ![Scatter plot](Scatter_plot.png)
